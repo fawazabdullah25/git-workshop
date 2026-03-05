@@ -1,4 +1,4 @@
-const NAMES_URL = 'https://raw.githubusercontent.com/fawazabdullah25/git-workshop/main/names.txt';
+const NAMES_URL = 'https://git-workshop-api.fawazabdullah.dev/names.txt';
 const REFRESH_INTERVAL = 30000; // 30 seconds
 
 const participantsContainer = document.getElementById('participants');
