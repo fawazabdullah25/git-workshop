@@ -109,5 +109,8 @@ Here are the resources from the Git Workshop:
 - ⏺️ [Workshop Recording](https://drive.google.com/file/d/1MkvK5ohPML3x7AFwprOuNVjz68WUkOin/view?usp=drivesdk)
 - 🖥️ [Slides](Git_GitHub_Workshop.pdf)
 
+---
+
 Made with ❤️ to help beginners get started with Git & GitHub
+
 Special thanks to Programming Club KAU for the opportunity to present this workshop
