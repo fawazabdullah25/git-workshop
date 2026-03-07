@@ -104,6 +104,13 @@ Here are some great resources to keep learning:
 - 🎮 [Learn Git Branching](https://learngitbranching.js.org/) — an interactive way to learn Git branching
 - 🎥 [Git & GitHub Crash Course (YouTube)](https://www.youtube.com/watch?v=RGOj5yH7evk) — a beginner-friendly video tutorial
 
+Here are the resources from the Git Workshop:
+
+- ⏺️ [Workshop Recording](https://drive.google.com/file/d/1MkvK5ohPML3x7AFwprOuNVjz68WUkOin/view?usp=drivesdk)
+- 🖥️ [Slides](Git_GitHub_Workshop.pdf)
+
 ---
 
-Made with ❤️ to help beginners get started with Git & GitHub.
+Made with ❤️ to help beginners get started with Git & GitHub
+
+Special thanks to Programming Club KAU for the opportunity to present this workshop
